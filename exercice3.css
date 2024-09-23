@@ -1,26 +1,22 @@
+footer{
+    padding-top: 64px;
+    text-align: center;
+}
 table {
     margin: auto;
-}
-body{
-    padding-top: 256px;
 }
 table, tr, td, th {
     border-collapse: collapse;
     border-color: black;
-    border-width: 1px;
+    border-width: 3px;
     border-style: solid;
 
 
 }
+th{
+    text-align: left;
+}
 td{
-padding: 64px;
-    
-}
-h2{
-  text-align: center;
-
-}
-footer{
-    padding-top: 64px;
+    padding-left:3px ;
     text-align: center;
 }
