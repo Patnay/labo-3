@@ -25,3 +25,13 @@ footer{
     padding-top: 64px;
     text-align: center;
 }
+th:nth-child(even) {
+    padding-left: 16px;
+    padding-top: 4px;
+    padding-right: 16px;
+}
+
+th:nth-child(odd) {
+
+    padding-top: 4px;
+}
